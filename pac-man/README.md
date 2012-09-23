@@ -13,6 +13,8 @@ pacman_middle.pes
 ----------------
 Number of stitches: 6605
 
+with concentric circle stitch
+
  * nom: 399
  * nom_border: 276
  * yellow 4696
