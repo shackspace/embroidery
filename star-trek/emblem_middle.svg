@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="265.74802"
+   height="265.74802"
+   viewBox="90 60 265.74802 265.74801"
+   sodipodi:docname="emblem_middle.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   inkscape:export-filename="/home/philipp/_daten/shack/embroidery/star-trek/emblem.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="839"
+     inkscape:window-height="885"
+     id="namedview8"
+     showgrid="false"
+     inkscape:document-units="mm"
+     units="mm"
+     inkscape:zoom="1.9388668"
+     inkscape:cx="132.87401"
+     inkscape:cy="123.21091"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Star Trek Emblem</dc:title>
+        <dc:date>1.st May 2009</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jesper Hansen</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>None</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:language>Dansk</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Star Trek</rdf:li>
+            <rdf:li>signia</rdf:li>
+            <rdf:li>emblem</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>It is a draw over of an original bitmap from a fan site.</dc:description>
+        <cc:license
+           rdf:resource="http://artlibre.org/licence.php/lalgb.html" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://artlibre.org/licence.php/lalgb.html">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <path
+     d="M 222.93465,65.289402 C 167.55361,148.70474 148.87479,233.64344 142.40592,321.1348 c 35.91275,-45.82474 67.52269,-75.86262 90.74266,-89.81537 25.63648,-15.40483 47.71588,8.96134 69.41437,69.11872 -14.39751,-78.50374 -24.35303,-155.32639 -79.6283,-235.148748 z m 0.4435,31.609402 8.05019,65.799176 19.37958,6.59876 -17.61902,9.3538 2.32501,20.99231 -11.92072,-20.33379 -12.55239,21.09982 2.54005,-22.09434 -17.92813,-9.03126 19.46022,-6.45089 8.26521,-65.933586 z"
+     style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.43006003px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="path6"
+     inkscape:connector-curvature="0" />
+</svg>
