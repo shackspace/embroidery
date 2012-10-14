@@ -10,6 +10,15 @@ Number of stitches: 6249
  * border 1820
 
 
+emblem_middle.pes
+-----------------------
+Number of stitches: 4203
+
+ * black 252
+ * yellow 2547
+ * border 1404
+
+
 emblem_small.pes
 -----------------------
 Number of stitches: 2416
