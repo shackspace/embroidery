@@ -37,6 +37,9 @@ https://de.wikipedia.org/w/index.php?title=Datei:Pacman.svg
 ###pesthoernchen/Pesthoernchen.svg
 http://ftp.ccc.de/logos/Pesthoernchen.svg
 
+###portal/ApetureLabs.svg
+http://commons.wikimedia.org/wiki/File:ApetureLabs.svg
+
 ###star-trek/Emblem.svg
 https://en.wikipedia.org/wiki/File:Emblem.svg
 
