@@ -13,6 +13,9 @@ ToDo
 
 Source
 ------
+###back_mesa/Half-Life_Black_Mesa_logo.svg
+https://commons.wikimedia.org/wiki/File:Half-Life_Black_Mesa_logo.svg
+
 ###chaosknoten/Chaosknoten.svg
 http://ftp.ccc.de/logos/Chaosknoten.svg
 

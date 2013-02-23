@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="256" height="256.00003" id="svg2" sodipodi:version="0.32" inkscape:version="0.46" version="1.0" sodipodi:docname="blackMasa.svg" inkscape:output_extension="org.inkscape.output.svg.inkscape" inkscape:export-filename="E:\Pictures\svg\blackMasa.png" inkscape:export-xdpi="44.999996" inkscape:export-ydpi="44.999996">
+  <defs id="defs4">
+    <inkscape:perspective sodipodi:type="inkscape:persp3d" inkscape:vp_x="0 : 526.18109 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="744.09448 : 526.18109 : 1" inkscape:persp3d-origin="372.04724 : 350.78739 : 1" id="perspective10"/>
+    <inkscape:perspective id="perspective2464" inkscape:persp3d-origin="372.04724 : 350.78739 : 1" inkscape:vp_z="744.09448 : 526.18109 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_x="0 : 526.18109 : 1" sodipodi:type="inkscape:persp3d"/>
+  </defs>
+  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" gridtolerance="10000" guidetolerance="10" objecttolerance="10" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="0.50000001" inkscape:cx="97.049687" inkscape:cy="222.58136" inkscape:document-units="px" inkscape:current-layer="layer1" showgrid="false" inkscape:window-width="1264" inkscape:window-height="764" inkscape:window-x="0" inkscape:window-y="0"/>
+  <metadata id="metadata7">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(803.844, -692.062)">
+    <path style="opacity: 1; fill: rgb(0, 0, 0); fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 15; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 4; stroke-dasharray: none; stroke-opacity: 1;" d="M -675.85042,692.06247 C -746.50698,692.06247 -803.84374,749.41269 -803.8437,820.06922 C -803.8437,890.72575 -746.50698,948.0625 -675.85042,948.0625 C -605.1939,948.0625 -547.8437,890.72577 -547.8437,820.06922 C -547.8437,749.41268 -605.1939,692.06249 -675.85042,692.06247 z M -677.07545,715.10881 C -618.79275,715.10881 -571.48234,762.41923 -571.48234,820.70192 C -571.48234,837.62198 -574.37752,852.46735 -581.44395,866.48496 C -590.68528,851.14069 -602.72856,832.08702 -612.12301,815.81534 C -638.63521,815.62572 -696.19994,815.10187 -719.27768,815.10187 C -719.27768,841.73112 -718.90075,870.81307 -718.90075,892.00823 C -728.32704,891.86994 -744.87839,892.21966 -754.29142,892.14284 C -772.16909,873.22612 -781.74197,847.4042 -781.59163,819.34229 C -781.2891,762.57227 -735.35815,715.10881 -677.07545,715.10881 z" id="path2511"/>
+  </g>
+</svg>
