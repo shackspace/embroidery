@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="354.33069"
-   height="354.33069"
+   width="265.74802"
+   height="265.74802"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="umbrella.svg"
-   inkscape:export-filename="umbrella.png"
+   sodipodi:docname="umbrella_middle.svg"
+   inkscape:export-filename="umbrella_middle.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <defs
@@ -66,35 +66,35 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-698.03149)">
+     transform="translate(0,-786.61414)">
     <path
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 177.155,875.18649 -86.04834,149.11671 172.13043,0 L 177.155,875.18649 z"
+       d="m 132.25812,914.07306 -63.608701,110.23014 127.242351,0 -63.63365,-110.23014 z"
        id="path3877"
        inkscape:connector-curvature="0" />
     <path
        style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 177.155,875.18649 86.08209,149.11671 86.11583,-149.11671 -172.19792,0 z"
+       d="m 132.25812,914.07306 63.63365,110.23014 63.65859,-110.23014 -127.29224,0 z"
        id="path3875"
        inkscape:connector-curvature="0" />
     <path
        style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 4.9908283,875.18649 86.0820877,149.11671 0.03374,0 86.04834,-149.11671 -172.1641717,0 z"
+       d="m 4.9908273,914.07306 63.6336477,110.23014 0.02494,0 63.608703,-110.23014 -127.2672957,0 z"
        id="path3867"
        inkscape:connector-curvature="0" />
     <path
        style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 263.23709,726.10352 -172.164174,0 86.082084,149.08297 86.08209,-149.08297 z"
+       d="m 195.89177,803.86787 -127.267295,0 63.633645,110.20519 63.63365,-110.20519 z"
        id="path3865"
        inkscape:connector-curvature="0" />
     <path
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 263.23709,726.10352 -86.08209,149.08297 172.19792,0 -86.11583,-149.08297 z"
+       d="m 195.89177,803.86787 -63.63365,110.20519 127.29224,0 -63.65859,-110.20519 z"
        id="path3860"
        inkscape:connector-curvature="0" />
     <path
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 4.9908283,875.18649 172.1641717,0 L 91.072916,726.10352 4.9908283,875.18649 z"
+       d="m 4.9908273,914.07306 127.2672927,0 L 68.624475,803.86787 4.9908273,914.07306 z"
        id="path2985"
        inkscape:connector-curvature="0" />
   </g>
