@@ -14,7 +14,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="umbrella.svg">
+   sodipodi:docname="umbrella_application.svg"
+   inkscape:export-filename="umbrella_application.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,7 +28,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="331.6253"
+     inkscape:cx="333.03951"
      inkscape:cy="133.2134"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
