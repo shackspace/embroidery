@@ -3,18 +3,18 @@ Embroidery Files for UMBRELLA
 
 umbrella.pes
 ------------
-Number of stitches: 10001
- * red 5054
- * black 4947
+Number of stitches: 12064
+ * red 6038
+ * black 6026
 
 umbrella_middle.pes
 -------------------
-Number of stitches: 5949
- * red 2963
- * black 2986
+Number of stitches: 7847
+ * red 3922
+ * black 3925
 
 umbrella_small.pes
 ------------------
-Number of stitches: 2986
- * red 1507
- * black 1479
+Number of stitches: 4018
+ * red 1988
+ * black 2030
