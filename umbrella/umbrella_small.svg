@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="umbrella_small.svg"
-   inkscape:export-filename="umbrella_small.png"
+   inkscape:export-filename="umbrella_middle.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <defs
@@ -28,25 +28,37 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.5889187"
-     inkscape:cx="89.355195"
-     inkscape:cy="68.229403"
+     inkscape:cx="88.582672"
+     inkscape:cy="132.87401"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="mm"
-     inkscape:window-width="839"
+     gridtolerance="10"
+     objecttolerance="20"
+     guidetolerance="20"
+     inkscape:snap-grids="true"
+     inkscape:snap-page="false"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-midpoints="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:object-paths="false"
+     inkscape:window-width="1680"
      inkscape:window-height="886"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="0">
+     inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
-       id="grid2987"
+       id="grid2989"
        empspacing="5"
        visible="true"
        enabled="false"
-       snapvisiblegridlinesonly="true"
+       snapvisiblegridlinesonly="false"
        units="mm"
+       originx="50mm"
+       originy="50mm"
        spacingx="1mm"
        spacingy="1mm" />
   </sodipodi:namedview>
@@ -58,7 +70,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -68,34 +80,44 @@
      id="layer1"
      transform="translate(0,-875.1968)">
     <path
-       style="fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 88.99489,963.54468 -41.985567,72.75852 83.987597,0 -42.00203,-72.75852 z"
-       id="path3877"
+       style="fill:#ffff00;fill-opacity:1;stroke:none"
+       d="m 123.00974,879.84401 49.50839,49.50839 -84.516115,35.00771 z"
+       id="path2995"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#ff00ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 88.99489,963.54468 42.00203,72.75852 42.0185,-72.75852 -84.02053,0 z"
-       id="path3875"
+       style="fill:#ff0000;fill-opacity:1;stroke:none"
+       d="m 52.994302,879.84401 70.015438,0 -35.007725,84.5161 z"
+       id="path2997"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 4.9908256,963.54468 42.0020334,72.75852 0.01646,0 41.98557,-72.75852 -84.0040677,0 z"
-       id="path3867"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       d="M 3.4859087,929.35239 88.002015,964.36011 52.994302,879.84401 z"
+       id="path2999"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 130.99692,890.80263 -84.004061,0 42.002031,72.74205 42.00203,-72.74205 z"
-       id="path3865"
+       style="fill:#808080;fill-opacity:1;stroke:none"
+       d="M 3.485906,999.36783 88.002015,964.36011 3.4859087,929.35239 z"
+       id="path3001"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 130.99692,890.80263 -42.00203,72.74205 84.02053,0 -42.0185,-72.74205 z"
-       id="path3860"
+       style="fill:#0000ff;fill-opacity:1;stroke:none"
+       d="M 52.994297,1048.8762 88.002015,964.36011 3.485906,999.36783 z"
+       id="path3003"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 4.9908256,963.54468 84.0040644,0 -42.002031,-72.74205 -42.0020334,72.74205 z"
-       id="path2985"
+       style="fill:#00ff00;fill-opacity:1;stroke:none"
+       d="M 123.00973,1048.8762 88.002015,964.36011 52.994297,1048.8762 z"
+       id="path3005"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ff00ff;fill-opacity:1;stroke:none"
+       d="m 123.00973,1048.8762 49.5084,-49.50836 -84.516115,-35.00773 z"
+       id="path3007"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#00ffff;fill-opacity:1;stroke:none"
+       d="m 172.51813,999.36784 0,-70.01544 -84.516115,35.00771 z"
+       id="path3009"
        inkscape:connector-curvature="0" />
   </g>
 </svg>
