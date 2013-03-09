@@ -31,6 +31,9 @@ http://www.debian.org/logos/openlogo.svg
 ###debian/openlogo-nd.svg
 http://www.debian.org/logos/openlogo-nd.svg
 
+###hentaibreaks_6/nipplewarn3.png
+http://hentaibreaks.de/6/img/nipplewarn3.png
+
 ###hgg/hgg_alles_cmyk_100k.eps
 https://github.com/shackspace/hgg/blob/master/doc/logo/source/hgg_alles_cmyk_100k.eps
 
